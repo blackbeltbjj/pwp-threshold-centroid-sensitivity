@@ -1,0 +1,4 @@
+threshold_c,n_common_days,start_date,end_date,pacific_cells_with_valid_denominator,mean_gridcell_occurrence_fraction,median_gridcell_occurrence_fraction,gridcells_occurrence_ge_0p10,gridcells_occurrence_ge_0p50,gridcells_occurrence_ge_0p90
+28.00000000,16403,1981-09-01,2026-07-29,312342,0.15857021,0.00000000,90682,46640,12688
+28.50000000,16403,1981-09-01,2026-07-29,312342,0.11833991,0.00000000,76803,33131,4662
+29.00000000,16403,1981-09-01,2026-07-29,312342,0.07817878,0.00000000,60273,15313,0
