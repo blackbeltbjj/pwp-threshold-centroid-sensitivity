@@ -1,6 +1,7 @@
 name: reproducibility-tests
 
 on:
+  workflow_dispatch:
   push:
   pull_request:
 
@@ -24,3 +25,4 @@ jobs:
       - name: Run regression tests
         run: |
           pytest -q
+
