@@ -1,0 +1,25 @@
+OSAF PROGRAM 35 — PWP LCC-ONLY FULL-RECORD ROBUSTNESS
+
+Canonical input: C:\Users\fabio\Documents\Data_analysis\timeseries\ENSO_INDICES\wavelets\pwp_mascara\outputs\tables\threshold_comparison\pwp_long_term_connectivity\pwp_daily_connectivity_diagnostics.csv
+Common dates: 16,403 | 1981-09-01 to 2026-07-29
+
+THRESHOLD-SPECIFIC LCC OBSERVABLES
+28.0 °C | N=16,403 | mean spherical LCC centroid=(163.675°E, +1.206°) | lon P05-P95=150.830–181.568°E (range=30.739°) | radial P95=2165.2 km
+28.5 °C | N=16,403 | mean spherical LCC centroid=(159.184°E, +0.636°) | lon P05-P95=144.688–179.053°E (range=34.364°) | radial P95=2461.3 km
+29.0 °C | N=16,403 | mean spherical LCC centroid=(156.925°E, +0.196°) | lon P05-P95=135.150–182.393°E (range=47.243°) | radial P95=3503.6 km
+
+SAME-DAY INTER-THRESHOLD LCC SEPARATIONS
+28.0 vs 28.5 °C | N=16,403 | median=497.4 km | P95=1842.8 km | max=6861.1 km | median Δlon(b-a)=-3.97° | median Δlat(b-a)=-0.51°
+28.0 vs 29.0 °C | N=16,403 | median=1015.2 km | P95=2937.8 km | max=12589.9 km | median Δlon(b-a)=-6.79° | median Δlat(b-a)=-1.03°
+28.5 vs 29.0 °C | N=16,403 | median=531.4 km | P95=2422.2 km | max=14944.7 km | median Δlon(b-a)=-2.68° | median Δlat(b-a)=-0.38°
+
+28→29 °C CHANGES
+mean_lcc_area_million_km2: 34.777047 -> 15.005293 | -56.85%
+lcc_lon_p95_minus_p05_deg: 30.738599 -> 47.243073 | +53.69%
+lcc_lon_sd_deg: 9.434960 -> 15.312548 | +62.30%
+lcc_radial_p95_km: 2165.200710 -> 3503.603550 | +61.81%
+
+INTERPRETATION RULE:
+If the monotonic threshold effects persist for the LCC-only observable, detached warm patches cannot be the sole explanation.
+If they weaken materially, fragmentation contributes to the full-domain threshold sensitivity.
+This remains a geometric/statistical sensitivity test, not evidence of ocean-dynamical inertia.
