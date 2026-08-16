@@ -45,3 +45,18 @@ not depend on the ENSO-association analysis.
 ## License
 
 MIT License.
+
+## Manuscript relationship
+
+This repository is the frozen computational reproducibility package for PWP
+Paper 1 targeted to the Journal of Atmospheric and Oceanic Technology (JTECH).
+
+The exact manuscript title will be inserted only after confirmation against
+the final JTECH Science-Freeze manuscript.
+
+Program 33 is intentionally excluded from this release because Paper 1 does
+not depend on the ENSO-association analysis.
+
+## License
+
+MIT License.
