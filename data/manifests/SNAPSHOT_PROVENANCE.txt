@@ -1,0 +1,33 @@
+PWP PAPER 1 REPRODUCIBILITY SNAPSHOT
+Created: 2026-08-16
+
+Original project:
+C:\Users\fabio\Documents\Data_analysis\timeseries\ENSO_INDICES\wavelets\pwp_mascara
+
+Original parent Git repository:
+C:\Users\fabio\Documents\Data_analysis\timeseries
+
+Original Git branch:
+main
+
+Original Git commit observed during audit:
+17568212c1bcd5f8792c27c8a42aa4c23c60a5ef
+
+Important:
+The original parent repository contained unrelated modified and untracked
+material. Therefore this publication package was constructed independently
+from an audited allow-list rather than published from the working tree.
+
+Analysis freeze:
+1981-09-01 through 2026-07-29
+Common daily N: 16403
+Thresholds: 28.0, 28.5, 29.0 degC
+OISST grid: 0.25 x 0.25 degree
+
+Program 05 SHA256:
+729B80855247DE4F690C790DB3129262BB2E808FC43B9088D9E83B00E3DA3150
+
+Program 31 frozen version:
+v1.0.1
+SHA256:
+13EE633981DC53926F04A02628BD64987AAE27B2B09A750B615237E1DE170C9A
