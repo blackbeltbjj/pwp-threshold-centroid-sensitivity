@@ -1,0 +1,13 @@
+# Preserve frozen scientific source files exactly as archived.
+*.py -text
+*.npy -text
+*.npz -text
+
+# Documentation/config text uses LF consistently.
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.cff text eol=lf
