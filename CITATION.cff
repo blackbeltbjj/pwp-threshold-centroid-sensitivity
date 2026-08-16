@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived software release."
+type: software
+title: "PWP Threshold-Centroid Sensitivity Reproducibility Package"
+authors:
+  - family-names: "Machado"
+    given-names: "Fabio Vieira"
+    orcid: "https://orcid.org/0000-0003-0723-075X"
+    affiliation: "Earth Science Research Alliance"
+version: "1.0.0"
+date-released: "2026-08-16"
+license: "MIT"
+repository-code: "https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity"
+keywords:
+  - Pacific Warm Pool
+  - threshold sensitivity
+  - spherical centroid
+  - OISST
+  - physical oceanography
+  - reproducibility
