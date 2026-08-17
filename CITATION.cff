@@ -6,7 +6,7 @@ authors:
   - family-names: "Machado"
     given-names: "Fabio Vieira"
     orcid: "https://orcid.org/0000-0003-0723-075X"
-    affiliation: "Earth Science Research Alliance"
+    affiliation: "Independent Researcher"
 version: "1.0.0"
 date-released: "2026-08-16"
 license: "MIT"
@@ -18,3 +18,4 @@ keywords:
   - OISST
   - physical oceanography
   - reproducibility
+
