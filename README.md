@@ -81,7 +81,17 @@ Program 33 is intentionally excluded from this release because the manuscript do
 
 ## Archival DOI
 
-A Zenodo DOI will be added here only after the archive identifier has been verified against this released software version.
+**PWP Threshold-Centroid Sensitivity Reproducibility Package v1.0.0**
+
+- Version DOI: https://doi.org/10.5281/zenodo.21964955
+- GitHub release: https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity/releases/tag/v1.0.0
+
+### Associated Paper 1 archives
+
+- OSAF-PWP v1.0.0 - core spherical Pacific Warm Pool software: https://doi.org/10.5281/zenodo.21964951
+- Pacific Warm Pool Threshold-Centroid Sensitivity: Derived Data v1.0.0: https://doi.org/10.5281/zenodo.21976955
+
+Together, these persistent records preserve the software and frozen derived-data products associated with the Paper 1 reproducibility chain.
 
 ## Author
 
